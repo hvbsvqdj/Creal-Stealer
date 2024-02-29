@@ -3,7 +3,6 @@
 
 
 
-<p align="center"><a href="https://t.me/CrealStealer" target="_blank">✨ Join Telegram for support and contact (Click me! ) ✨ </a>
 
 
 
